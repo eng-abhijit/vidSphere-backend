@@ -1,9 +1,3 @@
-model link- https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj
-
-atlas db access:
-username:Abhijit972003
-pass:Abhijit2003
-url:mongodb+srv://Abhijit972003:Abhijit972003@cluster0.h4g1dt2.mongodb.net
 
 fir install -  "devDependencies": {
     "nodemon": "^3.1.10",
